@@ -1,0 +1,5 @@
+node_modules/
+.env
+botexperiment/.wwebjs_auth/
+.DS_Store
+npm-debug.log

@@ -1,0 +1,29 @@
+2025/10/30-14:05:17.815 33d6c Reusing MANIFEST C:\Users\Yashk\OneDrive\Desktop\whatsappbot\botexperiment\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/30-14:05:17.816 33d6c Recovering log #659
+2025/10/30-14:05:17.858 33d6c Reusing old log C:\Users\Yashk\OneDrive\Desktop\whatsappbot\botexperiment\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000659.log 
+2025/10/30-14:05:17.858 33d6c Delete type=2 #653
+2025/10/30-14:05:17.858 33d6c Delete type=2 #654
+2025/10/30-14:05:17.858 33d6c Delete type=2 #655
+2025/10/30-14:05:17.858 33d6c Delete type=2 #656
+2025/10/30-14:05:17.858 33d6c Delete type=2 #657
+2025/10/30-14:05:17.858 33d6c Delete type=2 #660
+2025/10/30-14:05:19.949 3eca8 Level-0 table #669: started
+2025/10/30-14:05:19.978 3eca8 Level-0 table #669: 402209 bytes OK
+2025/10/30-14:05:19.981 3eca8 Delete type=0 #659
+2025/10/30-14:05:19.983 3eca8 Manual compaction at level-0 from '\x00\x9f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa0\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/30-14:05:22.370 3eca8 Compacting 1@1 + 6@2 files
+2025/10/30-14:05:22.476 3eca8 Generated table #670@1: 85069 keys, 2234018 bytes
+2025/10/30-14:05:22.598 3eca8 Generated table #671@1: 77332 keys, 2340411 bytes
+2025/10/30-14:05:22.669 3eca8 Generated table #672@1: 20294 keys, 2166036 bytes
+2025/10/30-14:05:22.715 3eca8 Generated table #673@1: 8072 keys, 2148250 bytes
+2025/10/30-14:05:22.808 3eca8 Generated table #674@1: 68402 keys, 2211954 bytes
+2025/10/30-14:05:22.817 3eca8 Generated table #675@1: 4513 keys, 89025 bytes
+2025/10/30-14:05:22.817 3eca8 Compacted 1@1 + 6@2 files => 11189694 bytes
+2025/10/30-14:05:22.820 3eca8 compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/10/30-14:05:22.820 3eca8 Delete type=2 #661
+2025/10/30-14:05:22.821 3eca8 Delete type=2 #662
+2025/10/30-14:05:22.821 3eca8 Delete type=2 #663
+2025/10/30-14:05:22.821 3eca8 Delete type=2 #664
+2025/10/30-14:05:22.821 3eca8 Delete type=2 #665
+2025/10/30-14:05:22.821 3eca8 Delete type=2 #666
+2025/10/30-14:05:22.821 3eca8 Delete type=2 #669
