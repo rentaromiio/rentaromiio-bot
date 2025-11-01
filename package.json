@@ -2,11 +2,11 @@
   "name": "rentaromiio-whatsapp-bot",
   "version": "1.0.0",
   "description": "WhatsApp Bot for Rent a Boyfriend business",
-  "main": "botexperiment/whatsapp-integration.js",
+  "main": "whatsapp-integration.js",
   "scripts": {
-    "start": "node botexperiment/whatsapp-integration.js",
-    "dev": "nodemon botexperiment/whatsapp-integration.js"
-  },
+   "start": "node whatsapp-integration.js",
+   "dev": "nodemon whatsapp-integration.js"
+ },
   "dependencies": {
     "whatsapp-web.js": "^1.23.0",
     "qrcode-terminal": "^0.12.0",
